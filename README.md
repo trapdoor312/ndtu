@@ -1,2 +1,0 @@
-# ndtu
-my website
